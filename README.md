@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ynnovate
+- 👀 I’m interested in home automation, API, python, odoo ...
+- 🌱 I’m currently learning python, api
+- 💞️ I’m looking to collaborate on python, api, onpedata
+- 📫 Reach me on Linkedin  
